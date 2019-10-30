@@ -38,7 +38,7 @@ DJANGO_APPS = [
     'django.contrib.staticfiles',
 ]
 PROJECT_APPS = [
-
+    'user.apps.UserConfig',
 ]
 
 THIRDPART_APPS = [
